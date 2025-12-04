@@ -478,7 +478,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Project Maintainer:** Intan Marsela  
 **Email:** Marsela.code@gmail.com  
-**GitHub:** [github.com/Intanmarsela/angin](https://github.com/Intanmarsela/angin)
+**GitHub:** [github.com/Intanmarsela/Angin-ai](https://github.com/Intanmarsela/Angin-ai)
 
 ---
 
