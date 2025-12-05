@@ -22,6 +22,18 @@ Angin acts like an emotional support "phone call" — a calm, empathetic AI comp
 
 ---
 
+## 🎬 Live Demo
+
+**Try Angin now:**
+
+- **Mobile App (APK):** [https://expo.dev/accounts/marsela_engo/projects/Angin]
+- **Backend API:** [https://angin-ai-production.up.railway.app]
+
+**Note:** No login required. Install and start using immediately.
+
+---
+
+
 ## 📋 Submission Details
 
 ### Kiro Hackathon Submission
